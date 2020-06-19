@@ -18,7 +18,6 @@
     "elm": "latest-0.19.1",
     "elm-format": "^0.8.2",
     "http-server": "^0.12.3",
-    "netlify-cli": "^2.54.0",
-    "prettier": "^2.0.5"
+    "netlify-cli": "^2.54.0"
   }
 }
