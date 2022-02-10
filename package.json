@@ -12,7 +12,7 @@
   "dependencies": {
     "elm-pages": "1.4.0",
     "highlight.js": "^9.15.10",
-    "node-sass": "^4.14.1"
+    "node-sass": "^7.0.0"
   },
   "devDependencies": {
     "elm": "0.19.1-3",
